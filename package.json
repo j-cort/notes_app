@@ -12,8 +12,5 @@
   "license": "ISC",
   "dependencies": {
     "esbuild": "^0.14.5"
-  },
-  "devDependencies": {
-    "jest": "^27.4.7"
   }
 }
